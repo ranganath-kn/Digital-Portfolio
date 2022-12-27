@@ -2,7 +2,7 @@
 Web Portfolio Application with ReactJS Framework
 
 # Prerequisites
-- NPM for using the application in 
+- NPM for using the application
 
 # Notable Files/Folders
 src/assets - This Folder contains all the required images, fonts used for the application
